@@ -1,0 +1,37 @@
+textbook -> n 教科书；课本
+conversation -> n 交谈；谈话
+aloud -> adv 大声地；出声地
+pronunciation -> n 发音；读音
+sentence -> n 句子
+patient -> adj 有耐心的  n 病人
+expression -> n 表情；表示；表达方式
+discover -> v 发现；发觉
+secret -> n 秘密；秘诀 adj 秘密的;保密的
+look up ->  查阅；抬头看
+grammar -> n  语法
+repeat -> v  重复；重做
+note -> n 笔记；记录 v 注意；指出
+pal -> n 朋友；伙伴
+physics -> n 物理；物理学
+chemistry -> n  化学
+memorize -> v 记忆；记住
+pattern -> n  模式；方式
+pronounce -> v  发音
+increase -> v 增加；增长
+speed -> n  速度
+partner -> n  搭档；同伴
+born -> v 出生 adj 天生的
+be born with ->  天生具有
+ability -> n 能力；才能
+create -> v 创造；创建
+brain -> n 大脑
+active -> adj 活跃的；积极的
+attention -> n 注意；关注
+pay attention to -> 注意；关注
+connect -> v  （使）连接；与……有联系
+connect ... with ->  把……和……连接或联系起来
+overnight -> adv 一夜之间；在夜间
+review -> v&n 回顾；复习
+knowledge -> n 知识；学问
+lifelong -> adj 终身的；毕生的
+wisely -> adv 明智地；聪明地

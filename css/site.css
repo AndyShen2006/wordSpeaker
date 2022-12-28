@@ -1,0 +1,76 @@
+body {
+	font-size: 1.5rem;
+	background-color: #eeeeee;
+}
+
+.btn {
+	font-size: 1.5rem;
+}
+
+.dropdown-menu {
+	font-size: 1.5rem;
+}
+
+.body-left {
+	display: inline-block;
+}
+
+.body-right {
+	float: right;
+}
+
+.word {
+	font-size: 2rem;
+	color: fuchsia;
+}
+
+.checkbox-random {
+	display: inline-block;
+	margin-left: 2rem;
+	width: 2.4rem;
+	height: 2.4rem;
+	background: #ddd;
+
+	border-radius: 100%;
+	position: relative;
+	-webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.checkbox-random input {
+	width: 0.1rem;
+	height: 0.1rem;
+	position: relative;
+	top: 0.4rem;
+	left: 0.6rem;
+}
+
+.checkbox-random label {
+	display: inline-block;
+	width: 1.8rem;
+	height: 1.8rem;
+	border-radius: 2rem;
+
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+	cursor: pointer;
+	position: absolute;
+	top: 0.3rem;
+	left: 0.3rem;
+	z-index: 1;
+
+	background: #333;
+
+	-webkit-box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.5);
+	box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.checkbox-random input[type=checkbox]:checked+label {
+	background: #26ca28;
+}
+ 
