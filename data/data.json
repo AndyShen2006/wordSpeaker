@@ -1,62 +1,50 @@
 [
 	{
-	"name":"101-u3单词",
-	"file":"grade10/101-unit3words.txt"
-    },
-    {
-	"name":"9-u1朗读单",
-	"file":"grade9/9-unit1read.txt"
-    },
-    {
-	"name":"9-u2朗读单",
-	"file":"grade9/9-unit2read.txt"
-    },
-    {
-	"name":"9-u3朗读单",
-	"file":"grade9/9-unit3read.txt"
-    },
-    {
-	"name":"9-u4朗读单",
-	"file":"grade9/9-unit4read.txt"
-    },
-    {
-	"name":"9-u5朗读单",
-	"file":"grade9/9-unit5read.txt"
-    },
-    {
-	"name":"9-u6朗读单",
-	"file":"grade9/9-unit6read.txt"
-    },
-    {
-	"name":"9-u7朗读单",
-	"file":"grade9/9-unit7read.txt"
-    },
-    {
-	"name":"9-u8朗读单",
-	"file":"grade9/9-unit8read.txt"
-    },
-    {
-	"name":"9-u9朗读单",
-	"file":"grade9/9-unit9read.txt"
-    },
-    {
-	"name":"9-u10朗读单",
-	"file":"grade9/9-unit10read.txt"
-    },
-    {
-	"name":"9-u11朗读单",
-	"file":"grade9/9-unit11read.txt"
-    },
-    {
-	"name":"9-u12朗读单",
-	"file":"grade9/9-unit12read.txt"
-    },
-    {
-	"name":"9-u13朗读单",
-	"file":"grade9/9-unit13read.txt"
-    },
-    {
-	"name":"9-u14朗读单",
-	"file":"grade9/9-unit14read.txt"
-    }
+		"name": "NCE3 1-5课单词",
+		"file": "nce3/nce3-1to5.txt"
+	},
+	{
+		"name": "NCE3 6-10课单词",
+		"file": "nce3/nce3-6to10.txt"
+	},
+	{
+		"name": "NCE3 11-15课单词",
+		"file": "nce3/nce3-11to15.txt"
+	},
+	{
+		"name": "NCE3 16-20课单词",
+		"file": "nce3/nce3-16to20.txt"
+	},
+	{
+		"name": "NCE3 21-25课单词",
+		"file": "nce3/nce3-21to25.txt"
+	},
+	{
+		"name": "NCE3 26-30课单词",
+		"file": "nce3/nce3-26to30.txt"
+	},
+	{
+		"name": "NCE3 31-35课单词",
+		"file": "nce3/nce3-31to35.txt"
+	},
+	{
+		"name": "NCE3 36-40课单词",
+		"file": "nce3/nce3-36to40.txt"
+	},
+	{
+		"name": "NCE3 41-45课单词",
+		"file": "nce3/nce3-41to45.txt"
+	},
+	{
+		"name": "NCE3 46-50课单词",
+		"file": "nce3/nce3-46to50.txt"
+	},
+	{
+		"name": "NCE3 51-55课单词",
+		"file": "nce3/nce3-51to55.txt"
+	},
+	{
+		"name": "NCE3 56-60课单词",
+		"file": "nce3/nce3-56to60.txt"
+	}
 ]
